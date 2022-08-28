@@ -35,7 +35,7 @@ nav {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  height: 100px;
+  height: 40px;
   width: 104px;
   text-decoration: none;
   transition: all 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55);

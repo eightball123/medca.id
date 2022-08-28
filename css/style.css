@@ -24,7 +24,7 @@ nav {
 }
 .nav-content {
   display: flex;
-  height: 120px;
+  height: 60px;
   align-items: center;
   list-style: none;
   position: relative;
@@ -35,7 +35,7 @@ nav {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  height: 120px;
+  height: 100px;
   width: 104px;
   text-decoration: none;
   transition: all 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55);

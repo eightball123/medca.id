@@ -33,13 +33,13 @@
   "food": [
     {
       "name": "Durian",
-      "price": 100.000,
+      "price": 100000,
       "categorie": 1,
       "image": "https://eightball123.github.io/medca.id/durian1.png"
     },
     {
       "name": "Durian",
-      "price": 10.000,
+      "price": 10000,
       "categorie": 1,
       "image": "https://eightball123.github.io/medca.id/durian1.png"
     },

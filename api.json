@@ -6,19 +6,19 @@
   ],
   "categories": [
     {
-      "id": 1,
+      "id": Durian,
       "name": "Durian",
       "color": "#fbc831",
       "image": "https://eightball123.github.io/medca.id/durian1.png"
     },
     {
-      "id": 2,
+      "id": Durian,
       "name": "Durian",
       "color": "#9fd236",
       "image": "https://eightball123.github.io/medca.id/durian1.png"
     },
     {
-      "id": 3,
+      "id": Durian,
       "name": "Durian",
       "color": "orange",
       "image": "https://eightball123.github.io/medca.id/durian1.png"

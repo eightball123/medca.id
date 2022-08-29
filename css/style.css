@@ -1,4 +1,5 @@
 /* Google Fonts - Poppins */
+/* Google Fonts - Poppins */
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
 
 * {
@@ -62,4 +63,10 @@ nav {
 }
 .link-item.active .link-text {
   opacity: 1;
+}
+#banner {
+  position: absolute;
+  top: 10px;
+  width: 100%;
+  height: 80px;
 }
